@@ -1,0 +1,37 @@
+.content {
+  margin: 0 auto;
+  max-width: 30em;
+  font-size: 1.3rem;
+  margin-top: 1em;
+  padding: 1em;
+}
+
+.rounded {
+  border-radius: .4em;
+}
+
+.content input[readonly] {
+  border: transparent;
+}
+
+.form-group {
+  margin: .3em;
+}
+
+.my-card {
+  border: 1px solid #dbdbdb;
+  margin-top: 1em;
+  padding: 1rem;
+  position: relative;
+}
+
+.copy-button {
+  position: absolute;
+  bottom: .2em;
+  right: .2em;
+  color: #8b8b8b
+}
+
+.copy-button:hover {
+  color: #4a4a4a
+}
